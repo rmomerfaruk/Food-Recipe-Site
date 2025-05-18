@@ -1,0 +1,90 @@
+body{
+    width: 98%;
+    margin: auto;
+}
+.gecis{
+    display: flex;
+    
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+.gecis a{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+}
+.gecis p{
+    color: #c62828;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.container .navbar a{
+    color:black;
+    text-decoration: none;
+    margin: 5px;
+    font-size: 20px;
+}
+
+.container .navbar a:hover{
+    color: #c62828;
+}
+
+.section{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+.section .baslik{
+    font-size: 26px;
+    color: #c62828;
+   
+}
+.section .düzyazi{
+    font-size: 17px;
+    font-weight: 400;
+    line-height:30px
+}
+
+.pKategoriler p{
+    font-size: 32px;
+    color: #c62828;
+    margin: 20px;
+   
+}
+
+.container2{
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+   
+
+    
+}
+
+
+.container2 a{
+    color: black;
+    margin: 15px;
+    font-size: 24px;
+    font-weight: 100;
+    text-decoration: none;
+   
+    
+}
+.container2 a:hover{
+    transform: scale(1.1);
+    transition: all 1.5s ease;
+    color: #c62828;
+}
+
+.container2 i{
+    color:#286C83;
+}
