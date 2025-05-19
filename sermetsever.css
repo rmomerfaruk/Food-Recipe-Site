@@ -26,8 +26,58 @@ body{
     color: #c62828;
   
 }
+.article{
+    width: 70%;
+    margin: auto;
+    background-color: ghostwhite;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+  
+}
 
 .article h1{
-     color: #c62828;
+     color: #4a4a4a;
      text-transform: capitalize;
+     padding-left: 20px;
+     
 }
+
+.article img{
+    width: auto;
+    height: 400px;
+}
+
+.article p{
+    font-size: 18px;
+    padding: 15px;
+    line-height: 140%;
+}
+
+
+
+  table {
+      border-collapse: collapse;
+      width: 100%;
+      max-width: 700px;
+      margin: auto;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 12px 15px;
+      text-align: left;
+    }
+    th {
+      background-color: #4CAF50;
+      color: white;
+    }
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+    caption {
+      margin-bottom: 10px;
+      font-size: 1.2em;
+      font-weight: bold;
+    }
