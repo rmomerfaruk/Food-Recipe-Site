@@ -1,0 +1,33 @@
+body{
+    width: 90%;
+    margin: auto;
+}
+
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:20px;
+
+   
+}
+
+.navbar a{
+    text-decoration: none;
+    margin: 5px;
+    font-size: 20px;
+    color: black;
+}
+
+.navbar a:hover{
+   
+    color: #c62828;
+  
+}
+
+.article h1{
+     color: #c62828;
+     text-transform: capitalize;
+}
