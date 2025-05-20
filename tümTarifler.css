@@ -20,6 +20,10 @@ body{
     font-weight: 400;
     font-size: 18px;
 }
+.gecis a:hover{
+    color:blue;
+}
+
 .gecis p{
     color: #c62828;
     font-weight: 400;

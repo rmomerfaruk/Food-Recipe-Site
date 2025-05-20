@@ -38,6 +38,10 @@ margin-top: 20px;
     font-size: 19px;
     margin: 2px;
 }
+.gecis a:hover{
+    color:blue;
+}
+
 .gecis p{
     color: #c62828;
     font-weight: 400;

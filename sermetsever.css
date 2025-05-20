@@ -26,6 +26,29 @@ body{
     color: #c62828;
   
 }
+.gecis{
+    display: flex;
+    align-items: center;
+}
+.gecis a{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 3px;
+
+}
+.gecis a:hover{
+    color:blue;
+}
+
+.gecis p{
+    color: #c62828;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 3px;
+}
+
 .article{
     width: 70%;
     margin: auto;
@@ -81,3 +104,14 @@ body{
       font-size: 1.2em;
       font-weight: bold;
     }
+
+    
+.footer{
+display: flex;
+justify-content: center;
+margin-top: 40px;
+}
+.footer p{
+    font-size: 28px;
+    margin-top: 30px;
+}
