@@ -92,3 +92,14 @@ body{
 .container2 i{
     color:#286C83;
 }
+
+.footer{
+display: flex;
+justify-content: center;
+background-color: #E59A26;
+margin-top: 30px;
+}
+.footer p{
+    font-size: 28px;
+    margin-top: 30px;
+}
