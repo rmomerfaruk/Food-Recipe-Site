@@ -78,3 +78,31 @@ body{
     line-height: 140%;
 }
 
+.article li{
+    font-size: 19px;
+    line-height: 160%;
+}
+.footer{
+ display: flex;
+justify-content:space-around;
+margin-top: 30px;
+background-color: #E59A26;
+
+}
+.footer .socialMedia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer .socialMedia a{
+    margin: 10px;
+}
+.footer p{
+    font-size: 28px;
+   
+}
+
+.footer a{
+    font-size: 30px;
+}
+
