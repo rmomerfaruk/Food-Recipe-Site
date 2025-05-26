@@ -25,8 +25,7 @@ body{
    
     color: #c62828;
   
-}
-.gecis{
+}.gecis{
     display: flex;
     align-items: center;
 }
@@ -78,6 +77,7 @@ body{
     padding: 15px;
     line-height: 140%;
 }
+
 .footer{
  display: flex;
 justify-content:space-around;
@@ -101,5 +101,4 @@ background-color: #E59A26;
 .footer a{
     font-size: 30px;
 }
-
 
